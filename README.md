@@ -1,5 +1,4 @@
-## Stock_News_Notifier
-# Overview
+# Overview Of The Project
 The Stock News Notifier is a Python script that provides users with a daily summary of a specified stock's performance along with relevant news headlines. The script uses the Alpha Vantage API to fetch daily stock data and the News API to retrieve news articles related to the specified company. It then sends an SMS notification using the Twilio API to a specified recipient, containing information about the stock's percentage change and a randomly selected news headline.
 
 # Features

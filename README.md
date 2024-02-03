@@ -12,3 +12,12 @@ Upon gathering stock and news information, the script utilizes the Twilio API to
 
 # Error Handling: 
 The script incorporates robust error handling mechanisms to gracefully handle exceptions that may occur during execution. It provides informative error messages, making it easier for users to troubleshoot issues. Whether it's a network problem, API key mismatch, or any other unexpected situation, the script aims to provide clear feedback on the problem encountered.
+
+# Example Output:
+TSLA: 🔺2%
+Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
+Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
+or
+TSLA: 🔻5%
+Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
+Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus...
